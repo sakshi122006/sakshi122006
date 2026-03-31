@@ -39,11 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi122006&show_icons=true)
-
-
 ## 📊 GitHub Analytics
 
 <p align="center">

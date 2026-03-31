@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi122006&layout=compact&bg_color=F4C2C2&title_color=ffffff&text_color=ffffff" width="400" />
+ <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Sakshi.jpg" width="400" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Sakshi</h1>

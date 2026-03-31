@@ -38,7 +38,11 @@
 ![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react)
 
 ---
+<p align="center">
+  <img src="Github.gif" width="200" />
+</p>
 
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -54,6 +58,13 @@
 </p>
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi122006&theme=react-dark" />
+</p>
+
+---
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi122006&layout=compact)

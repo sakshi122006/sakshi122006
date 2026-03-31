@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
- <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Sakshi.jpg" width="400" />
+ <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Sakshi.jpeg" width="400" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Sakshi</h1>

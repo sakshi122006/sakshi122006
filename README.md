@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="www.linkedin.com/in/sakshi-revaje-4662232a2" />
+    <img src="[www.linkedin.com/in/sakshi-revaje-4662232a2](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)" />
   </a>
   
   <a href="https://github.com/sakshi122006">

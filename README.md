@@ -38,9 +38,9 @@
 ![React](https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react)
 
 ---
-##🚀
+## 🚀
 <p align="center">
-   <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Github.gif" width="200" />
+   <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Github.gif" width="400" />
 </p>
 
 ---

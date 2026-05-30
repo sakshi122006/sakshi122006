@@ -3,7 +3,7 @@
  <img src="https://github.com/sakshi122006/sakshi122006/blob/main/Sakshi.jpeg" width="400" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Sakshi</h1>
+<h1 align="center">Hi there 👋 I'm Sakshi🎀</h1>
 <h3 align="center">Software Engineering Student | Full Stack Developer</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 🎀
 
 - 🎓 Software Engineering Student
 - 💻 Interested in Web Development & AI

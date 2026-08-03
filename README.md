@@ -47,6 +47,15 @@
 </p>
 
 ---
+
+# Visitor ❤️
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sakshi122006&label=Profile+Views&color=blueviolet&style-for-the-badge"/>
+</div>
+
+--
+
 ## 📊 GitHub Analytics
 
 <p align="center">
